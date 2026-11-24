@@ -1,0 +1,138 @@
+employee_id,termination_date,department,location,job_level,termination_reason,regrettable_flag
+E00004,2025-03-21,Data & Analytics,Mumbai,Manager,Personal Reasons,0
+E00006,2025-12-19,Engineering,Pune,Senior Associate,Resignation,0
+E00009,2025-03-01,Human Resources,Gurugram,Associate,Compensation,0
+E00012,2025-09-21,Operations,Bengaluru,Senior Manager,Personal Reasons,1
+E00024,2025-09-24,Engineering,Hyderabad,Senior Associate,Career Growth,0
+E00028,2025-01-01,Engineering,Hyderabad,Associate,Compensation,0
+E00032,2025-10-25,Marketing,Pune,Senior Associate,Relocation,0
+E00034,2025-11-07,Engineering,Chennai,Senior Associate,Compensation,1
+E00041,2025-04-24,Marketing,Mumbai,Senior Manager,Personal Reasons,1
+E00052,2025-07-29,Marketing,Pune,Associate,Resignation,1
+E00058,2025-07-07,Engineering,Pune,Associate,Relocation,0
+E00062,2025-03-03,Finance,Mumbai,Associate,Relocation,0
+E00067,2025-09-16,Customer Support,Gurugram,Senior Associate,Career Growth,0
+E00070,2025-05-01,Sales,Hyderabad,Manager,Performance,0
+E00088,2025-10-06,Human Resources,Mumbai,Senior Manager,Performance,0
+E00093,2025-12-09,Human Resources,Pune,Manager,Compensation,1
+E00103,2025-09-01,Marketing,Pune,Associate,Performance,1
+E00106,2025-01-31,Marketing,Mumbai,Associate,Resignation,1
+E00148,2025-02-27,Marketing,Gurugram,Associate,Compensation,0
+E00153,2025-06-05,Sales,Pune,Associate,Compensation,1
+E00169,2025-03-24,Marketing,Mumbai,Senior Associate,Resignation,1
+E00192,2025-04-03,Engineering,Gurugram,Associate,Personal Reasons,0
+E00194,2025-10-03,Human Resources,Gurugram,Senior Manager,Career Growth,0
+E00200,2025-06-04,Engineering,Hyderabad,Director,Relocation,1
+E00205,2025-08-17,Human Resources,Pune,Senior Associate,Career Growth,0
+E00213,2025-01-09,Customer Support,Gurugram,Associate,Personal Reasons,1
+E00233,2025-09-14,Sales,Gurugram,Associate,Resignation,0
+E00237,2025-03-12,Marketing,Chennai,Manager,Career Growth,0
+E00254,2025-12-28,Data & Analytics,Gurugram,Manager,Career Growth,1
+E00259,2025-03-19,Engineering,Chennai,Manager,Career Growth,0
+E00261,2025-03-24,Operations,Mumbai,Associate,Relocation,1
+E00276,2025-11-27,Human Resources,Pune,Senior Associate,Personal Reasons,1
+E00280,2025-12-16,Engineering,Bengaluru,Associate,Compensation,1
+E00289,2025-05-25,Data & Analytics,Bengaluru,Senior Manager,Career Growth,1
+E00291,2025-02-23,Data & Analytics,Bengaluru,Manager,Personal Reasons,0
+E00294,2025-12-07,Customer Support,Hyderabad,Manager,Relocation,0
+E00295,2025-12-06,Marketing,Bengaluru,Director,Resignation,1
+E00309,2025-09-07,Finance,Gurugram,Associate,Career Growth,0
+E00311,2025-01-31,Human Resources,Chennai,Senior Associate,Resignation,1
+E00315,2025-07-01,Human Resources,Gurugram,Associate,Compensation,0
+E00333,2025-04-23,Human Resources,Bengaluru,Manager,Resignation,0
+E00362,2025-02-19,Data & Analytics,Chennai,Senior Associate,Compensation,0
+E00374,2025-07-05,Marketing,Chennai,Associate,Resignation,0
+E00377,2025-08-16,Engineering,Pune,Associate,Personal Reasons,1
+E00382,2025-10-30,Data & Analytics,Chennai,Director,Performance,0
+E00400,2025-07-23,Marketing,Gurugram,Senior Manager,Performance,0
+E00412,2025-05-13,Marketing,Gurugram,Associate,Resignation,0
+E00418,2025-06-25,Data & Analytics,Gurugram,Manager,Performance,0
+E00420,2025-04-07,Operations,Hyderabad,Associate,Compensation,1
+E00425,2025-04-01,Engineering,Mumbai,Senior Associate,Career Growth,0
+E00429,2025-03-20,Engineering,Gurugram,Associate,Resignation,1
+E00438,2025-05-31,Customer Support,Hyderabad,Senior Associate,Career Growth,1
+E00445,2025-02-04,Sales,Bengaluru,Senior Manager,Personal Reasons,0
+E00458,2025-06-05,Human Resources,Hyderabad,Senior Manager,Compensation,1
+E00463,2025-02-23,Engineering,Pune,Senior Associate,Personal Reasons,1
+E00466,2025-05-23,Operations,Mumbai,Manager,Resignation,0
+E00482,2025-08-15,Marketing,Gurugram,Associate,Relocation,1
+E00502,2025-03-18,Sales,Pune,Senior Manager,Resignation,1
+E00507,2025-10-18,Finance,Pune,Director,Personal Reasons,0
+E00515,2025-02-09,Human Resources,Chennai,Associate,Career Growth,1
+E00522,2025-12-14,Sales,Gurugram,Director,Performance,0
+E00532,2025-04-19,Marketing,Gurugram,Senior Associate,Career Growth,0
+E00593,2025-02-08,Engineering,Mumbai,Senior Manager,Resignation,1
+E00600,2025-02-21,Engineering,Gurugram,Director,Relocation,1
+E00613,2025-09-29,Marketing,Pune,Manager,Relocation,0
+E00627,2025-10-15,Finance,Bengaluru,Senior Associate,Relocation,1
+E00632,2025-05-25,Human Resources,Gurugram,Senior Manager,Compensation,1
+E00659,2025-09-04,Customer Support,Chennai,Director,Career Growth,0
+E00667,2025-03-19,Marketing,Chennai,Associate,Resignation,1
+E00676,2025-12-13,Sales,Pune,Associate,Personal Reasons,0
+E00681,2025-01-01,Human Resources,Bengaluru,Senior Associate,Compensation,0
+E00696,2025-11-23,Customer Support,Chennai,Senior Associate,Career Growth,0
+E00697,2025-07-15,Customer Support,Gurugram,Senior Associate,Personal Reasons,1
+E00715,2025-04-25,Data & Analytics,Hyderabad,Associate,Career Growth,1
+E00716,2025-04-08,Engineering,Pune,Director,Personal Reasons,1
+E00731,2025-04-26,Marketing,Bengaluru,Senior Associate,Relocation,0
+E00770,2025-10-10,Data & Analytics,Mumbai,Manager,Performance,0
+E00773,2025-07-16,Human Resources,Gurugram,Senior Associate,Resignation,0
+E00775,2025-04-03,Marketing,Gurugram,Associate,Compensation,0
+E00776,2025-07-06,Customer Support,Hyderabad,Associate,Career Growth,0
+E00781,2025-11-19,Data & Analytics,Chennai,Senior Associate,Performance,0
+E00782,2025-06-10,Operations,Gurugram,Associate,Resignation,1
+E00785,2025-07-11,Marketing,Hyderabad,Associate,Resignation,0
+E00789,2025-12-03,Marketing,Bengaluru,Associate,Career Growth,1
+E00793,2025-04-16,Marketing,Pune,Manager,Relocation,0
+E00794,2025-01-20,Data & Analytics,Pune,Senior Associate,Resignation,0
+E00799,2025-03-28,Engineering,Mumbai,Senior Associate,Career Growth,1
+E00817,2025-12-27,Engineering,Gurugram,Senior Manager,Personal Reasons,0
+E00833,2025-05-06,Marketing,Chennai,Senior Associate,Compensation,0
+E00836,2025-02-04,Marketing,Bengaluru,Associate,Resignation,1
+E00852,2025-02-03,Engineering,Gurugram,Associate,Resignation,0
+E00854,2025-11-23,Finance,Bengaluru,Associate,Performance,1
+E00855,2025-11-19,Customer Support,Hyderabad,Manager,Resignation,0
+E00872,2025-05-25,Sales,Bengaluru,Manager,Performance,0
+E00882,2025-10-26,Sales,Hyderabad,Manager,Career Growth,1
+E00898,2025-12-29,Human Resources,Chennai,Manager,Career Growth,0
+E00899,2025-02-02,Operations,Bengaluru,Director,Personal Reasons,0
+E00911,2025-11-03,Operations,Pune,Senior Associate,Personal Reasons,0
+E00928,2025-01-11,Marketing,Bengaluru,Senior Associate,Resignation,0
+E00934,2025-04-12,Customer Support,Pune,Senior Associate,Relocation,0
+E00937,2025-05-27,Operations,Gurugram,Director,Relocation,1
+E00940,2025-04-05,Marketing,Pune,Manager,Career Growth,0
+E00952,2025-12-15,Operations,Pune,Senior Associate,Performance,1
+E00964,2025-02-24,Marketing,Hyderabad,Senior Manager,Compensation,1
+E00967,2025-01-10,Engineering,Pune,Manager,Resignation,0
+E00973,2025-01-21,Sales,Bengaluru,Associate,Relocation,0
+E00986,2025-12-14,Marketing,Gurugram,Senior Associate,Career Growth,0
+E00995,2025-09-04,Finance,Bengaluru,Manager,Career Growth,1
+E00998,2025-08-03,Human Resources,Hyderabad,Senior Manager,Relocation,0
+E01000,2025-03-07,Marketing,Chennai,Associate,Career Growth,0
+E01006,2025-07-05,Sales,Pune,Senior Associate,Performance,1
+E01013,2025-01-29,Finance,Bengaluru,Senior Associate,Compensation,0
+E01024,2025-01-19,Data & Analytics,Pune,Senior Associate,Career Growth,1
+E01034,2025-11-02,Finance,Hyderabad,Associate,Resignation,0
+E01037,2025-04-28,Human Resources,Pune,Director,Performance,0
+E01039,2025-11-05,Operations,Chennai,Senior Associate,Relocation,0
+E01040,2025-12-20,Finance,Mumbai,Associate,Relocation,0
+E01052,2025-01-28,Marketing,Mumbai,Associate,Resignation,1
+E01054,2025-07-04,Data & Analytics,Gurugram,Associate,Compensation,0
+E01058,2025-10-10,Finance,Gurugram,Associate,Personal Reasons,1
+E01072,2025-08-30,Sales,Gurugram,Manager,Relocation,0
+E01085,2025-06-05,Sales,Bengaluru,Senior Manager,Career Growth,1
+E01099,2025-07-22,Engineering,Bengaluru,Senior Associate,Performance,0
+E01102,2025-02-09,Operations,Chennai,Director,Performance,0
+E01110,2025-10-12,Operations,Gurugram,Associate,Performance,1
+E01112,2025-11-17,Finance,Pune,Senior Associate,Resignation,1
+E01113,2025-08-20,Sales,Bengaluru,Manager,Career Growth,0
+E01117,2025-02-10,Data & Analytics,Mumbai,Associate,Career Growth,1
+E01119,2025-04-23,Engineering,Pune,Senior Associate,Performance,1
+E01128,2025-01-07,Sales,Pune,Associate,Compensation,1
+E01145,2025-08-02,Marketing,Mumbai,Senior Manager,Compensation,1
+E01149,2025-04-23,Human Resources,Hyderabad,Senior Associate,Career Growth,1
+E01151,2025-11-30,Sales,Mumbai,Senior Associate,Performance,0
+E01171,2025-09-07,Engineering,Pune,Manager,Career Growth,0
+E01175,2025-10-20,Customer Support,Gurugram,Associate,Compensation,0
+E01179,2025-03-10,Operations,Bengaluru,Senior Associate,Career Growth,0
+E01199,2025-05-20,Operations,Chennai,Manager,Compensation,0

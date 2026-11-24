@@ -1,0 +1,1 @@
+# Dataset is CSV; generator can be implemented with Python standard library.\npandas>=2.0\n
